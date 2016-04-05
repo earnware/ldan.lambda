@@ -1,0 +1,15 @@
+{
+  "name": "ldan.demo.lambda",
+  "version": "1.0.0",
+  "description": "Lambda function for the demo.ldan.io api-gateway backend. LDAN is a Serverless stack built using AWS Lambda, AWS DynamoDb, Aurelia, and Node.js. We affectionately call it “Lieutenant Dan.”",
+  "main": "index.js",
+  "author": "Matt Beckman",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/earnwarecom/ldan.demo.lambda.git"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.3.0"
+  }
+}
